@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Raktimb Biswas
+- 👋 Hi, I’m Raktim Biswas
 - 🌱 I’m currently learning C,HTML,JAVASCRIPT,PHP
