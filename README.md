@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Raktimb Biswas
-- 👀 I’m interested in 
 - 🌱 I’m currently learning C,HTML,JAVASCRIPT,PHP
